@@ -10,4 +10,5 @@ figcaption {
   /*font-family: Georgia, "Times New Roman", Sans-Serif;*/
   font: normal 0.75em/1.5em Georgia, "Times New Roman", Sans-Serif;
   color: blue;
+  text-align: right;
 }
