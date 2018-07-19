@@ -36,4 +36,6 @@ figcaption {
   text-decoration: none;
 }
 
-#details
+#details a:hover {
+  
+}
